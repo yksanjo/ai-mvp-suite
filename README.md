@@ -1,5 +1,9 @@
 # AI MVP Suite - Three Complete B2B SaaS Applications
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)](https://www.javascript.com/) [![GitHub stars](https://img.shields.io/github/stars/yksanjo/ai-mvp-suite?style=social)](https://github.com/yksanjo/ai-mvp-suite/stargazers) [![GitHub forks](https://img.shields.io/github/forks/yksanjo/ai-mvp-suite.svg)](https://github.com/yksanjo/ai-mvp-suite/network/members) [![GitHub issues](https://img.shields.io/github/issues/yksanjo/ai-mvp-suite.svg)](https://github.com/yksanjo/ai-mvp-suite/issues)
+[![Last commit](https://img.shields.io/github/last-commit/yksanjo/ai-mvp-suite.svg)](https://github.com/yksanjo/ai-mvp-suite/commits/main)
+
+
 This repository contains three production-ready MVP applications built with Next.js 14, Supabase, and Anthropic Claude AI. Each MVP is designed to solve a specific B2B problem and can be deployed independently.
 
 ## 🚀 The Three MVPs
